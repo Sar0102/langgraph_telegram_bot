@@ -1,0 +1,11 @@
+.git
+.idea
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+data/generated-media
+data/long-term-memory
+data/short-term-memory.db
